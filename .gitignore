@@ -1,0 +1,5 @@
+client/node_modules/
+excel-files
+server/node_modules/
+.env
+node_modules
